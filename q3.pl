@@ -4,4 +4,3 @@ $len = 50;
 $string;
 while($len--){ $string .= $chars[rand @chars] };
 print "$string\n";
-~                    
